@@ -6,7 +6,7 @@
   <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" alt="PayPal Donate Button">
 </a>
 
-INCLUDES DEMO CODE
+<h2>This Repository Includes the Demo Code</h2>
 
 <h2>Demo</h2>
 <h5>This crudely constructed demo clearly illustrates the differences between using .Lerp(), .MoveTowards(), and .Lerp() + LerpKit</h5>
